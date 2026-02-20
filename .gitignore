@@ -1,0 +1,9 @@
+speech_recognition_models/
+speech_recognition_models
+.env
+recording.wav
+scraped_text.txt
+transcription.txt
+summarized_text.txt
+venv
+venv/
