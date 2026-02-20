@@ -7,3 +7,4 @@ transcription.txt
 summarized_text.txt
 venv
 venv/
+.DS_Store
